@@ -1,3 +1,8 @@
+![Be decentralized Unchain Assets  Go Borderless  Stay Private](https://user-images.githubusercontent.com/91164084/193469304-1842c566-c827-4115-bdef-96a1999107bc.png)
+
+
+
+
 ### Hi there 👋 ✨Bitindi Chain ✨  *is a  An innovative layer 1 blockchain that aims to bring a shift in the blockchain ecosystem by introducing a next generation user-friendly development tools.*
 
 
