@@ -1,7 +1,7 @@
 ### Hi there 👋 ✨Bitindi Chain ✨  *is a  An innovative layer 1 blockchain that aims to bring a shift in the blockchain ecosystem by introducing a next generation user-friendly development tools.*
 
 
-## Framework: 
+## Framework
 
 ### Bitindi consists of an architectural framework with strong guarantees:
 
@@ -21,18 +21,18 @@
 🦄 **Interoperability** - Bitindi Chain has the ability to interoperate with a variety of blockchains, enabling cross-blockchain transfers of any type of data through bridges.
 
 
-### Problems Bitindi is Solving:
+## Problems Bitindi is Solving:
 
 ‼️**Problem:** Fragmentation of liquidity due to lack of interoperability.
 
-🦄 **Solution:** Bitindi will use the technology we have developed to be cross blockchain interoperability.
+**Solution:** Bitindi will use the technology we have developed to be cross blockchain interoperability.
 
 
 ‼️**Problem:** Lack of mass adoption due to a high knowledge barrier for non-crypto-native end-users. 
 
-🦄 **Solution:** Bitindi will feature a mobile application & web application layer designed to bring non-crypto-users into the Bitindi ecosystem. Creating this mobile app & web application will allow Bitindi to tap into the demographic that mainly uses smartphones and smartphone applications. It will also allow us to create a simplified UI to bring in new users.
+**Solution:** Bitindi will feature a mobile application & web application layer designed to bring non-crypto-users into the Bitindi ecosystem. Creating this mobile app & web application will allow Bitindi to tap into the demographic that mainly uses smartphones and smartphone applications. It will also allow us to create a simplified UI to bring in new users.
 
 
 ‼️**Problem:** New projects cannot tap into cross-chain liquidity and multi-chain user base immediately to grow their projects from the start. 
 
-🦄 **Solution:** Bitindi technology and inherent interoperability will allow new projects to list their tokens on all blockchains supported by Bitindi by listing on Bitindi Dex.
+**Solution:** Bitindi technology and inherent interoperability will allow new projects to list their tokens on all blockchains supported by Bitindi by listing on Bitindi Dex.
