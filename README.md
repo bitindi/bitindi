@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **bitindi/bitindi** is a ✨ An innovative layer 1 blockchain that aims to bring a shift in the blockchain ecosystem by introducing a next generation user-friendly development tools.
  ✨ 
 
@@ -32,4 +32,3 @@ Problems Bitindi is Solving:
 ‼️Problem: New projects cannot tap into cross-chain liquidity and multi-chain user base immediately to grow their projects from the start. 
 
 🌸 Solution: Bitindi technology and inherent interoperability will allow new projects to list their tokens on all blockchains supported by Bitindi by listing on Bitindi Dex.
--->
