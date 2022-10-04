@@ -43,5 +43,6 @@
 **Solution:** Bitindi technology and inherent interoperability will allow new projects to list their tokens on all blockchains supported by Bitindi by listing on Bitindi Dex.
 
 ### Download Our Mobile App
-![image](https://user-images.githubusercontent.com/91164084/193707300-83091215-6626-47e2-a35a-1cbd81bdbcf1.png)(https://play.google.com/store/apps/details?id=com.bitindi.wallet)
+
+[![image](https://user-images.githubusercontent.com/91164084/193707488-8371d92a-131a-4ecd-b86b-7108b017fd94.png)](https://play.google.com/store/apps/details?id=com.bitindi.wallet)
 
