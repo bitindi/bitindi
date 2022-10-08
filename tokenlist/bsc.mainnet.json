@@ -10,11 +10,11 @@
     "tokens": [
         {
             "chainId": 56,
-            "address": "0x0475AE77fb55005F15554642d6016c75FD04227A",
-            "symbol": "MDEFI",
-            "name": "Metaegg DeFi",
+            "address": "0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e",
+            "symbol": "BNI",
+            "name": "Bitindi Chain",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/metaegg/cross-blockchain-dex/main/public/metaegg.png"
+            "logoURI": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bni-logo.svg"
         },
         {
             "chainId": 56,
