@@ -14,7 +14,7 @@
 🦄 **Sustainability** - Bitindi Chain's main goal is to create a user-centric sustainability-driven ecosystem, and it is able to achieve this by having sustainability embedded inside the Bitindi Chain consensus mechanism and runtime logic. Thus, making sure that sustainable participation in the network or in the real world is highly incentivized.
 
 
-🦄 **Security** - The cutting-edge technology that is used to build Bitindi Chain plus the Hybrid POS/POA allows Bitindi Chain to have strong security guarantees that other older blockchains lack.
+🦄 **Security** - The cutting-edge technology that is used to build Bitindi Chain plus the BPoS allows Bitindi Chain to have strong security guarantees that other older blockchains lack.
 
 
 🦄 **Scalability** -Bitindi Chain is able to achieve high transactional by shading and it enables the migration of real-world use cases that need high scalability promises on-chain.
