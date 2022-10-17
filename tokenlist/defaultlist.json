@@ -18,14 +18,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27811/small/160.png?1665906992",
       "address": "0x77fc65dedA64f0CCA9e3aEa7b9D8521f4151882e"
     },
-    {
-      "symbol": "RGP",
-      "name": "Rigel Protocol",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png",
-      "address": "0x4AF5ff1A60a6eF6C7c8f9C4E304cD9051fCa3Ec0"
-    },
+  
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
@@ -74,14 +67,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
     },
-    {
-      "name": "RigelToken",
-      "symbol": "RGP",
-      "address": "0x9f0227A21987c1fFab1785BA3eBa60578eC1501B",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
-    },
+   
     {
       "name": "USDT Token",
       "symbol": "USDT",
@@ -146,14 +132,7 @@
       "chainId": 80001,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11897.png"
     },
-    {
-      "name": "Rigel Token",
-      "address": "0x8E62F88FD28F95cE0dD0557c8419215b5599CE64",
-      "symbol": "RGP",
-      "decimals": 18,
-      "chainId": 80001,
-      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
-    },
+   
     {
       "name": "USDCToken",
       "address": "0xd22c5DbE967C2f9ac302729354fE32eB88b6B645",
@@ -171,14 +150,7 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     },
 
-    {
-      "address": "0x4AF5ff1A60a6eF6C7c8f9C4E304cD9051fCa3Ec0",
-      "chainId": 1,
-      "name": "RigelToken",
-      "symbol": "RGP",
-      "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
-    },
+   
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1,
@@ -195,14 +167,7 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     },
-    {
-      "name": "RigelToken",
-      "address": "0x80278a0Cf536e568A76425B67Fb3931Dca21535c",
-      "symbol": "RGP",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
-    },
+   
     {
       "name": "USD Coin",
       "address": "0x0D9C8723B343A8368BebE0B5E89273fF8D712e3C",
@@ -235,14 +200,7 @@
       "chainId": 4,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
-    {
-      "name": "RigelToken",
-      "address": "0x2d2cd8ED2ec05A55162308332C40C3eF1994F59D",
-      "symbol": "RGP",
-      "decimals": 18,
-      "chainId": 42261,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
+   
     {
       "name": "Tether USD",
       "address": "0xa30b641533D2509089CeF6F097a5BFB62dF7BC8b",
@@ -267,14 +225,7 @@
       "chainId": 42262,
       "logoURI": "https://assets.coingecko.com/coins/images/13162/small/rose.png?1605772906"
     },
-    {
-      "name": "RigelToken",
-      "address": "0x4AF5ff1A60a6eF6C7c8f9C4E304cD9051fCa3Ec0",
-      "symbol": "RGP",
-      "decimals": 18,
-      "chainId": 42262,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
+   
     {
       "name": "Tether USD",
       "address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",
