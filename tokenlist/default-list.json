@@ -1,14 +1,13 @@
 {
-  "name": "Bitindi Default List",
-  "timestamp": "2021-05-06T00:00:00Z",
-  "version": {
-    "major": 3,
-    "minor": 0,
-    "patch": 0
-  },
-  "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bni-logo.svg",
-  "keywords": ["bitindi", "default", "protocol"],
+    "name": "Bitindi Default Token List",
+    "keywords": [
+        "bitindi",
+        "bni",
+        "binance"
+    ],
+    "timestamp": "2022-09-20T00:00:00+00:00",
+    "logoURI": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bni-logo.svg",
+    "tokens": [
   "tokens": [
     {
       "symbol": "BNI",
