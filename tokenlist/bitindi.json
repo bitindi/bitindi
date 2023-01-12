@@ -2,8 +2,7 @@
     "name": "Bitindi Chain Token List",
     "keywords": [
         "bitindi",
-        "bni",
-        "binance"
+        "bni"
     ],
     "timestamp": "2023-01-20T00:00:00+00:00",
     "logoURI": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bitindi-400.png",
@@ -11,8 +10,8 @@
         {
             "chainId": 4099,
             "address": "0x15E162205421dc3A47b15A1A740FbF5EAbB77921",
-            "symbol": "BNI",
-            "name": "Bitindi Chain",
+            "symbol": "WBNI",
+            "name": "Wrapped BNI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/bitindi/bitindi/main/assets/images/bitindi-400.png"
         },
