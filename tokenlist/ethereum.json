@@ -16,6 +16,14 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/KyberNetwork/dmm-interface/main/src/assets/images/KNC.svg"
         },
+           {
+            "chainId": 1,
+            "address": "0x249cA82617eC3DfB2589c4c17ab7EC9765350a18",
+            "symbol": "VERSE",
+            "name": "VERSE",
+            "decimals": 18,
+            "logoURI": "https://github.com/bitindi/bitindi/blob/main/assets/images/verse.png?raw=true"
+        },
         {
             "chainId": 1,
             "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
